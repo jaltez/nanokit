@@ -1,0 +1,24 @@
+{
+  "name": "nanokit",
+  "version": "1.0.0",
+  "description": "A minimalistic approach to efficient small projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaltez/nanokit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaltez/nanokit/issues"
+  },
+  "homepage": "https://github.com/jaltez/nanokit#readme",
+  "devDependencies": {
+    "daisyui": "^5.0.35",
+    "tailwindcss": "^4.1.5"
+  }
+}
